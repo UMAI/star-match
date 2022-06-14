@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import "./App.css";
+import "./StarMatch.css";
 import utils from "./utils";
 import { useState, useEffect } from "react";
 import PlayNumber from "./PlayNumber";
